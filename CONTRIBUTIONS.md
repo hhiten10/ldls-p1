@@ -36,7 +36,7 @@ the report sections and the slides presented in the talk.
 | Report sections | §4 Profiling, §5 Roofline, §6 Own experiment |
 | Slides | 5–8 |
 
-## Member 3 (Aditya Sai Teja B): Mamba-3 kernels and ggml operator, MIMO answer, PARAM Rudra (Rudra reference run, bonus steps 3–7)
+## Member 3 (Aditya Sai Teja B, @aditya25058): Mamba-3 kernels and ggml operator, MIMO answer, PARAM Rudra (Rudra reference run, bonus steps 3–7)
 
 | | |
 |---|---|
